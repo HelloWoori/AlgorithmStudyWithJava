@@ -1,7 +1,11 @@
+package section1;
+
+import etc.IQuest;
+
 import java.util.Scanner;
 
 // 1. 문자 찾기
-public class Quest1 implements IQuest{
+public class Quest1 implements IQuest {
 
     @Override
     public void run() {
