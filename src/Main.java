@@ -1,10 +1,10 @@
 import etc.IQuest;
 
-import section1.Quest10;
+import section1.Quest12;
 
 public class Main {
     public static void main(String[] args) {
-        IQuest q = new Quest10();
+        IQuest q = new Quest12();
         q.run();
     }
 }
